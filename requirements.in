@@ -1,0 +1,5 @@
+Flask
+requests
+scikit-learn
+Flask-SQLAlchemy
+psycopg2-binary
